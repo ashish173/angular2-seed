@@ -1,0 +1,20 @@
+{
+  "name": "new_ng2",
+  "version": "1.0.0",
+  "description": "New angular2 setup with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular2",
+    "typescript"
+  ],
+  "author": "Ashish Singh",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.35",
+    "systemjs": "^0.18.11",
+    "traceur-runtime": "0.0.59"
+  }
+}
