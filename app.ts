@@ -10,14 +10,14 @@ import {Component, View, bootstrap} from 'angular2/angular2';
 })
 
 @View({
-  template: '<h1>Hello {{ name }}</h1>'
+  template: '<h1>Greetings from {{ name }}!!!</h1>'
 })
 
 // Component controller
 class MyAppComponent {
   name: string;
   constructor() {
-    this.name = 'Alice';
+    this.name = 'Ashish Singh';
   }
 }
 

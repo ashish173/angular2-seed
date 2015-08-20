@@ -13,8 +13,8 @@
   "author": "Ashish Singh",
   "license": "ISC",
   "dependencies": {
-    "angular2": "^2.0.0-alpha.35",
-    "systemjs": "^0.18.11",
-    "traceur": "0.0.91"
+    "angular2": "latest",
+    "systemjs": "latest",
+    "traceur": "latest"
   }
 }
